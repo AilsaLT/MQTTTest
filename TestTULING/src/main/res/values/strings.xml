@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">智能小精灵</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+    <string name="welcome_tips">主人，您好！O(∩_∩)O</string>
+</resources>
